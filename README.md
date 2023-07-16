@@ -1,9 +1,9 @@
 # express-starter-ts
 
 ## Features
-📦 Use Rollup packaging.
-🚀 Optimize the packaged code using Google closure compilation.
-⚡ Easy to deploy, only one Js file after packaging, directly `node fileName.js` can be run. No `npm i` installation dependency required
+<p>📦 Use Rollup packaging.</p>
+<p>🚀 Optimize the packaged code using Google closure compilation.</p>
+<p>⚡ Easy to deploy, only one Js file after packaging, directly "node fileName.js" can be run. No "npm i" installation dependency required</p>
 
 ## Usage
 ### Clone to local
